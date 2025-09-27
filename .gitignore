@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pylint.d/
+.coverage
+coverage.xml
+
+# Environments
+env/
+venv/
+.env
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS-specific
+Thumbs.db
+.DS_Store
+
+# Logs and temp
+*.log
+*.tmp
+~$*
+
+# QGIS/Project temp (adjust as needed)
+*.qgs~
+*.qgz~
+*.aux.xml
